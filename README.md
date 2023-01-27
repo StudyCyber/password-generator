@@ -1,2 +1,2 @@
 # password-generator
-Simple password generator
+Simple password generator in python
