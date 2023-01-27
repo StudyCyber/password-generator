@@ -9,6 +9,7 @@ length = input("Length of passwords: ")
 length = int(length)
 
 for password in range(number):
-    passwords=" "
+    passwords=""
     for x in range(length):
         passwords += random.choice(char)
+    print(passwords)
